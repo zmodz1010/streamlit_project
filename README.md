@@ -7,4 +7,5 @@ Follow these instructions to get a copy of the project up and running on your lo
 Prerequisites
 Make sure you have Python and pip installed on your machine.
 
+```bash
 pip install streamlit pandas numpy
